@@ -45,4 +45,4 @@ Cette application de bureau permet de gérer les **produits** et les **commandes
 ## ▶️ Lancer l'application
 
 ```bash
-python gestion_boulangerie.py
+python main.py
